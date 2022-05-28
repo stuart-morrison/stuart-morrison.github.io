@@ -93,6 +93,7 @@ safeMode = "unsafe"
   name = "github"
   url = "https://github.com/stuart-morrison"
 
+
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
 
@@ -106,11 +107,6 @@ SiteVerificationTag = "XYZabc"
   hidden = true
   hiddenInList = true
   hiddenInSingle = true
-
-  [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false
