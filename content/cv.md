@@ -1,6 +1,5 @@
 ---
 title: "CV"
-date: 2022-05-28T15:58:45+10:00
 draft: false
 # weight: 1
 # aliases: ["/first"]
@@ -25,6 +24,7 @@ ShowShareButtons: false
 
 
 ---
+
 
 <table>
     <tbody>

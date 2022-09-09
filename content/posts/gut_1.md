@@ -1,7 +1,7 @@
 ---
 title: "Problems in probability theory - 1"
 summary: Some fun problems from Gut
-date: 2022-05-28T15:58:45+10:00
+date: 2024-05-28T15:58:45+10:00
 draft: false
 # weight: 1
 # aliases: ["/first"]

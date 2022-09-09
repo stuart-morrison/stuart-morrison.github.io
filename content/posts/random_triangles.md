@@ -76,9 +76,8 @@ Resultingly, making two random cuts that forms a a triangle, has a probability o
 **If you make $n-1$ cuts, what is the probability the segments make an $n$-gon?**
 Extending the triangle inequality, we see that, to make an $n$-gon, the longest side must be less than $\frac{1}{2}$. 
 
-We make use of symmetry of independent uniform random draws here - ie, there are $x!$ ways that $x$ uniform random draws could transitively arrange themselves.
+For each segment, the probability that it is longer than $\frac{1}{2}$ is $P\left(min x_{i} > \frac{1}{2}\right) = \left(\frac{1}{2}\right)^{n-1}$. For $n$ segments, the probability that we don't make an $n$-gon is then $\frac{n}{2^{n-1}}$.
 
-Then, the probability of $n-1$ cuts resulting in an $n$-gon is:
-$$P(n\text{-gon}) = P(x_{1} < x_{2} < ... < x_{n-1}) \times P\left(x_{1} < \frac{1}{2}, x_{1} < x_{2} < x_{1} + \frac{1}{2}, ..., x_{n-2} < x_{n-1} < x_{n-2} + 0.5 \right) \times (n-1)!$$
-$$P(n\text{-gon}) = \frac{(n-1)!}{(n-1)!} \times \int_{0}^{\frac{1}{2}}...\int_{x_{n-2}}^{x_{n-2}+\frac{1}{2}}u dx_{n-1}...dx_{1}$$
-$$P(n\text{-gon}) = \left(\frac{1}{2}\right)^{(n-1)}$$
+<img src="/triangle/triangle_5.png">
+
+So then, the probability that we make an $n$-gon is: $$P(n\text{-gon}) = 1 - \frac{n}{2^{n-1}}$$
