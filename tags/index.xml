@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Stuart J Morrison</title>
-    <link>https://sjm.fyi/tags/</link>
+    <link>https://stuart-morrison.github.io/tags/</link>
     <description>Recent content in Tags on Stuart J Morrison</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Jul 2022 15:58:45 +1000</lastBuildDate><atom:link href="https://sjm.fyi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 15:58:45 +1000</lastBuildDate><atom:link href="https://stuart-morrison.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>random variables</title>
-      <link>https://sjm.fyi/tags/random-variables/</link>
+      <link>https://stuart-morrison.github.io/tags/random-variables/</link>
       <pubDate>Fri, 01 Jul 2022 15:58:45 +1000</pubDate>
       
-      <guid>https://sjm.fyi/tags/random-variables/</guid>
+      <guid>https://stuart-morrison.github.io/tags/random-variables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cv</title>
-      <link>https://sjm.fyi/tags/cv/</link>
+      <link>https://stuart-morrison.github.io/tags/cv/</link>
       <pubDate>Sat, 28 May 2022 15:58:45 +1000</pubDate>
       
-      <guid>https://sjm.fyi/tags/cv/</guid>
+      <guid>https://stuart-morrison.github.io/tags/cv/</guid>
       <description></description>
     </item>
     

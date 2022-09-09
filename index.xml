@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stuart J Morrison</title>
-    <link>https://sjm.fyi/</link>
+    <link>https://stuart-morrison.github.io/</link>
     <description>Recent content on Stuart J Morrison</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Jul 2022 15:58:45 +1000</lastBuildDate><atom:link href="https://sjm.fyi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 15:58:45 +1000</lastBuildDate><atom:link href="https://stuart-morrison.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random triangles and polygons</title>
-      <link>https://sjm.fyi/posts/random_triangles/</link>
+      <link>https://stuart-morrison.github.io/posts/random_triangles/</link>
       <pubDate>Fri, 01 Jul 2022 15:58:45 +1000</pubDate>
       
-      <guid>https://sjm.fyi/posts/random_triangles/</guid>
+      <guid>https://stuart-morrison.github.io/posts/random_triangles/</guid>
       <description>Extensions on the clasic interview question</description>
     </item>
     
     <item>
       <title>Repositories</title>
-      <link>https://sjm.fyi/repositories/</link>
+      <link>https://stuart-morrison.github.io/repositories/</link>
       <pubDate>Sat, 28 May 2022 15:58:45 +1000</pubDate>
       
-      <guid>https://sjm.fyi/repositories/</guid>
+      <guid>https://stuart-morrison.github.io/repositories/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>https://sjm.fyi/cv/</link>
+      <link>https://stuart-morrison.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sjm.fyi/cv/</guid>
+      <guid>https://stuart-morrison.github.io/cv/</guid>
       <description>&amp;nbsp Email: smorrison [at] ucdavis [dot] edu &amp;nbsp Website: sjm.fyi &amp;nbsp Github: github.com/stuart-morrison Education PhD - Agricultural and Resource Economics, UC Davis Current Bachelor of Science, Statistics and Mathematics - University of Sydney 2021 Bachelor of Economics (Hons I), Econometrics - University of Queensland 2016 Bachelor of Commerce, Finance - University of Queensland 2015 Awards and fellowships Provost&amp;rsquo;s Fellowship in the Arts, Humanities and Social Sciences, UC Davis 2022 UQ Economics Scholarship, University of Queensland 2015 UQ Dean&amp;rsquo;s Excellence Scholarship, University of Queensland 2014 Extracurriculars R package creator: schemr</description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://sjm.fyi/posts/</link>
+      <link>https://stuart-morrison.github.io/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sjm.fyi/posts/</guid>
+      <guid>https://stuart-morrison.github.io/posts/</guid>
       <description>Posts</description>
     </item>
     
