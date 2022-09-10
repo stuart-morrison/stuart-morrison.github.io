@@ -76,7 +76,7 @@ Resultingly, making two random cuts that forms a a triangle, has a probability o
 **If you make $n-1$ cuts, what is the probability the segments make an $n$-gon?**
 Extending the triangle inequality, we see that, to make an $n$-gon, the longest side must be less than $\frac{1}{2}$. 
 
-For each segment, the probability that it is longer than $\frac{1}{2}$ is $P\left(min x_{i} > \frac{1}{2}\right) = \left(\frac{1}{2}\right)^{n-1}$. For $n$ segments, the probability that we don't make an $n$-gon is then $\frac{n}{2^{n-1}}$.
+For each segment, the probability that it is longer than $\frac{1}{2}$ is $P\left(\min_{i} x_{i} > \frac{1}{2}\right) = \left(\frac{1}{2}\right)^{n-1}$. For $n$ segments, the probability that we don't make an $n$-gon is then $\frac{n}{2^{n-1}}$.
 
 <img src="/triangle/triangle_5.png">
 
