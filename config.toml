@@ -1,4 +1,4 @@
-baseURL = "https://sjm.fyi/"
+baseURL = "https://stuart-morrison.github.io/"
 title = "Stuart J Morrison"
 paginate = 5
 theme = "PaperMod"
