@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://sjm.fyi/sitemap.xml
+Sitemap: https://stuart-morrison.github.io/sitemap.xml
