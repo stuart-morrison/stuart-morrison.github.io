@@ -1,7 +1,7 @@
 ---
 title: "Random triangles and polygons"
 summary: Extensions on the clasic interview question
-date: 2022-07-01T15:58:45+10:00
+date: 2022-08-31T15:58:45+10:00
 draft: false
 # weight: 1
 # aliases: ["/first"]
