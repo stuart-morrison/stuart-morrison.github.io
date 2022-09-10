@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>random variables on Stuart J Morrison</title>
-    <link>https://sjm.fyi/tags/random-variables/</link>
+    <link>https://stuart-morrison.github.io/tags/random-variables/</link>
     <description>Recent content in random variables on Stuart J Morrison</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Aug 2022 15:58:45 +1000</lastBuildDate><atom:link href="https://sjm.fyi/tags/random-variables/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Aug 2022 15:58:45 +1000</lastBuildDate><atom:link href="https://stuart-morrison.github.io/tags/random-variables/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random triangles and polygons</title>
-      <link>https://sjm.fyi/posts/random_triangles/</link>
+      <link>https://stuart-morrison.github.io/posts/random_triangles/</link>
       <pubDate>Wed, 31 Aug 2022 15:58:45 +1000</pubDate>
       
-      <guid>https://sjm.fyi/posts/random_triangles/</guid>
+      <guid>https://stuart-morrison.github.io/posts/random_triangles/</guid>
       <description>Extensions on the clasic interview question</description>
     </item>
     
