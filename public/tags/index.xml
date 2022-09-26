@@ -9,11 +9,20 @@
       <link>https://stuart-morrison.github.io/images/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 31 Aug 2022 15:58:45 +1000</lastBuildDate><atom:link href="https://stuart-morrison.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://stuart-morrison.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>probability</title>
+      <link>https://stuart-morrison.github.io/tags/probability/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://stuart-morrison.github.io/tags/probability/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>random variables</title>
       <link>https://stuart-morrison.github.io/tags/random-variables/</link>
-      <pubDate>Wed, 31 Aug 2022 15:58:45 +1000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://stuart-morrison.github.io/tags/random-variables/</guid>
       <description></description>
