@@ -25,31 +25,38 @@ mathjax: true
 
 ---
 
-## Find the distribution of a cumulative distribution function
+## 🥋 Find the distribution of a cumulative distribution function 
 
 Take a cumulative distribution function $F$ of random variable $X$. Let $Z = F_{X}(x)$. Then:
 $F_{Z}(x) = P(Z < x) = P(F_{X}(x) < x) = P(X < F^{-1}_{X}(x)) = F_X (F^{-1}_X (x)) = x$
 
 So then $Z$, the cumulative distribution function of $X$, is uniformly distributed.
 
+
+&nbsp;
+
+
 ## Three problems from Gut
 
 From Gut, Probability: A Graduate Course, Chapter 2.
 
-**Question 5: Show $\sum P(n < X \neq n + m) = m$**
+🐌 **Question 5: Show $\sum P(n < X \neq n + m) = m$**
 
 For a discrete valued random variable $X \in \mathbb{Z}$:
 $$\sum_{\mathbb{Z}} P (n < X \leq n + m) = \sum_{i \in \mathbb{Z}}\sum_{n = i+1}^{i+m} P(X = n)$$
 $$=m\cdot \sum_{i \in \mathbb{Z}} P(X = i) = m \cdot 1 = m$$
 
-**Question 6: Show $\int P(x < X \leq x + a) = a$**
+&nbsp;
+
+🐙 **Question 6: Show $\int P(x < X \leq x + a) = a$**
 
 For a continuously valued random variable over $(-\infty, \infty)$:
 $$\int_{-\infty}^{\infty} P(x < X \leq x + a) dx = \int_{-\infty}^{\infty} \int_{u = x}^{x+a}f(u) du dx$$
 $$ = \int_{u = x-a}^{x} \int_{-\infty}^{\infty} f(x) dx du = \int_{u = x-a}^{x} (F(\infty) - F(-\infty)) du$$
 $$=\int_{u = x-a}^{x} 1 du = x - x+a = a$$
 
-**Question 15: Find $\int P(X < x \leq Y) - P(Y < x \leq X)$**
+&nbsp;
+🔍 **Question 15: Find $\int P(X < x \leq Y) - P(Y < x \leq X)$**
 
 For two continuously-valued random variables, $X$, $Y$, find $\int_{-\infty}^{\infty} P(X < x \leq Y) - P(Y < x \leq X) dx$
 
