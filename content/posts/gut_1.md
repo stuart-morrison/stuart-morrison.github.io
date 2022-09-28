@@ -40,7 +40,7 @@ So then $Z$, the cumulative distribution function of $X$, is uniformly distribut
 
 From Gut, Probability: A Graduate Course, Chapter 2.
 
-🐌 **Question 5: Show $\sum P(n < X \neq n + m) = m$**
+🐌 **Question 5: Show $\sum P(n < X \leq n + m) = m$**
 
 For a discrete valued random variable $X \in \mathbb{Z}$:
 $$\sum_{\mathbb{Z}} P (n < X \leq n + m) = \sum_{i \in \mathbb{Z}}\sum_{n = i+1}^{i+m} P(X = n)$$
