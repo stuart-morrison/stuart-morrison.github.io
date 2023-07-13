@@ -59,11 +59,15 @@ ShowShareButtons: false
  | **Bachelor of Economics (Hons I)**, Econometrics - *University of Queensland* | 2016 |
 |  **Bachelor of Commerce**, Finance - *University of Queensland* | 2015 |  
 
+
+
 ## Research
 
 | |  
 |---|---|
-| An effective sanitizer for fresh produce production: In situ plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit _with  Joanna G Rothwell, Jungmi Hong, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter_  | [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.01.03.522676v1.article-info) |
+| An effective sanitizer for fresh produce production: _In situ_ plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit _with  Joanna G Rothwell, Jungmi Hong, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter_  | [Microbiology Spectrum](https://journals.asm.org/doi/10.1128/spectrum.00034-23) |
+
+
 
 ## Awards and fellowships
 | | |
@@ -72,9 +76,13 @@ ShowShareButtons: false
 | **UQ Economics Scholarship**, University of Queensland  | 2015 |
 | **UQ Dean's Excellence Scholarship**, University of Queensland | 2014 |
 
+
+
 ## Extracurriculars
 **R package creator:** [`schemr`](https://CRAN.R-project.org/package=schemr)  
 **Programming, scripting and mark up languages:** R, Python, VBA, LaTeX, JavaScript, Markdown
+
+
 
 ## Other employment
 
