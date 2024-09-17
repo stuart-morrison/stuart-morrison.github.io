@@ -4,35 +4,30 @@
     <title>Tags on Stuart J Morrison</title>
     <link>https://stuart-morrison.github.io/tags/</link>
     <description>Recent content in Tags on Stuart J Morrison</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://stuart-morrison.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://stuart-morrison.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>probability</title>
+      <title>Probability</title>
       <link>https://stuart-morrison.github.io/tags/probability/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://stuart-morrison.github.io/tags/probability/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>random variables</title>
+      <title>Random Variables</title>
       <link>https://stuart-morrison.github.io/tags/random-variables/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://stuart-morrison.github.io/tags/random-variables/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cv</title>
+      <title>Cv</title>
       <link>https://stuart-morrison.github.io/tags/cv/</link>
       <pubDate>Sat, 28 May 2022 15:58:45 +1000</pubDate>
-      
       <guid>https://stuart-morrison.github.io/tags/cv/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

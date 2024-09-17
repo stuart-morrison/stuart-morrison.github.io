@@ -4,7 +4,8 @@
     <title>Categories on Stuart J Morrison</title>
     <link>https://stuart-morrison.github.io/categories/</link>
     <description>Recent content in Categories on Stuart J Morrison</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://stuart-morrison.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://stuart-morrison.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
