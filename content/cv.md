@@ -73,6 +73,7 @@ ShowShareButtons: false
 ## Awards and fellowships
 | | |
 |---|---|
+| **Earth Scholar**, UC Davis Institute of the Environment | 2024 |
 | **Provost's Fellowship in the Arts, Humanities and Social Sciences**, UC Davis | 2022 |
 | **UQ Economics Scholarship**, University of Queensland  | 2015 |
 | **UQ Dean's Excellence Scholarship**, University of Queensland | 2014 |
@@ -81,9 +82,6 @@ ShowShareButtons: false
 
 ## Extracurriculars
 **R package creator:** [`schemr`](https://CRAN.R-project.org/package=schemr)  
-**Programming, scripting and mark up languages:** R, Python, VBA, LaTeX, JavaScript, Markdown
-
-
 
 ## Other employment
 
