@@ -66,7 +66,7 @@ ShowShareButtons: false
 
 | |  
 |---|---|
-| An effective sanitizer for fresh produce production: _In situ_ plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit _with  Joanna G Rothwell, Jungmi Hong, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter_  | [Microbiology Spectrum](https://journals.asm.org/doi/10.1128/spectrum.00034-23) |
+| An effective sanitizer for fresh produce production: _In situ_ plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit _Joanna G Rothwell, Jungmi Hong, **Stuart Morrison**, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter_  | [Microbiology Spectrum](https://journals.asm.org/doi/10.1128/spectrum.00034-23) |
 
 
 
