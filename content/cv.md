@@ -88,6 +88,7 @@ ShowShareButtons: false
 
 | | |
 |---|---|
-| 2021-2022 | **Australian Energy Market Commission**, Senior Advisor |
-| 2017-2021 | **HoustonKemp Economists**, Economist | 
-| 2016 | **University of Queensland**, Teaching assistant - Introductory statistics |  
+| **UC Davis**, Teaching and research assistant | 2022-Current |
+| **Australian Energy Market Commission**, Senior Advisor | 2021-2022 |
+| **HoustonKemp Economists**, Economist | 2017-2021 |
+| **University of Queensland**, Teaching assistant - Introductory statistics |  2016 |
