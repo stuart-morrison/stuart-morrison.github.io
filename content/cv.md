@@ -74,6 +74,7 @@ ShowShareButtons: false
 | | |
 |---|---|
 | **Earth Scholar**, UC Davis Institute of the Environment | 2024 |
+| **WPTF Graduate Student Award**, Western Power Trading Forum | 2024 |
 | **Provost's Fellowship in the Arts, Humanities and Social Sciences**, UC Davis | 2022 |
 | **UQ Economics Scholarship**, University of Queensland  | 2015 |
 | **UQ Dean's Excellence Scholarship**, University of Queensland | 2014 |
