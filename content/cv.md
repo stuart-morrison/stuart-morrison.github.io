@@ -56,9 +56,9 @@ ShowShareButtons: false
 |---|---|
 | **PhD - Agricultural and Resource Economics**, *UC Davis* | Current |
 | **MSc - Agricultural and Resource Economics**, *UC Davis* | 2024 |
-| **Bachelor of Science**, Statistics and Mathematics - *University of Sydney* | 2021 |
- | **Bachelor of Economics (Hons I)**, Econometrics - *University of Queensland* | 2016 |
-|  **Bachelor of Commerce**, Finance - *University of Queensland* | 2015 |  
+| **Bachelor of Science - Statistics and Mathematics**, *University of Sydney* | 2021 |
+ | **Bachelor of Economics (Hons I) - Econometrics**, *University of Queensland* | 2016 |
+|  **Bachelor of Commerce - Finance**, *University of Queensland* | 2015 |  
 
 
 
