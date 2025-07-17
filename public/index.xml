@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stuart J Morrison</title>
-    <link>https://sjm.fyi/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Stuart J Morrison</description>
     <image>
       <title>Stuart J Morrison</title>
-      <url>https://sjm.fyi/images/</url>
-      <link>https://sjm.fyi/images/</link>
+      <url>http://localhost:1313/images/</url>
+      <link>http://localhost:1313/images/</link>
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sjm.fyi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some problems in probability theory</title>
-      <link>https://sjm.fyi/posts/gut_1/</link>
+      <link>http://localhost:1313/posts/gut_1/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjm.fyi/posts/gut_1/</guid>
+      <guid>http://localhost:1313/posts/gut_1/</guid>
       <description>Some fun problems from Gut</description>
     </item>
     <item>
       <title>Random triangles and polygons</title>
-      <link>https://sjm.fyi/posts/random_triangles/</link>
+      <link>http://localhost:1313/posts/random_triangles/</link>
       <pubDate>Wed, 31 Aug 2022 15:58:45 +1000</pubDate>
-      <guid>https://sjm.fyi/posts/random_triangles/</guid>
+      <guid>http://localhost:1313/posts/random_triangles/</guid>
       <description>Extensions on the clasic interview question</description>
     </item>
     <item>
       <title>Repositories</title>
-      <link>https://sjm.fyi/repositories/</link>
+      <link>http://localhost:1313/repositories/</link>
       <pubDate>Sat, 28 May 2022 15:58:45 +1000</pubDate>
-      <guid>https://sjm.fyi/repositories/</guid>
+      <guid>http://localhost:1313/repositories/</guid>
       <description>&lt;div class=&#34;github-card&#34; data-github=&#34;stuart-morrison/schemr&#34; data-width=&#34;400&#34; data-height=&#34;&#34; data-theme=&#34;medium&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;
 &lt;div class=&#34;github-card&#34; data-github=&#34;stuart-morrison/algos&#34; data-width=&#34;400&#34; data-height=&#34;&#34; data-theme=&#34;medium&#34;&gt;&lt;/div&gt;
@@ -41,27 +41,27 @@
     </item>
     <item>
       <title>CV</title>
-      <link>https://sjm.fyi/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sjm.fyi/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>&lt;table&gt;
     &lt;tbody&gt;
         &lt;tr &gt;
-            &lt;td rowspan=3&gt;&lt;img src=&#34;https://sjm.fyi/images/pfp_small.png&#34;&gt;  &lt;/td&gt;
+            &lt;td rowspan=3&gt;&lt;img src=&#34;http://localhost:1313/images/pfp_small.png&#34;&gt;  &lt;/td&gt;
             &lt;td rowspan=1&gt;
             &lt;div class=&#34;social-icons&#34;&gt;
-                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 21&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z&#34;&gt;&lt;/path&gt;&lt;polyline points=&#34;22,6 12,13 2,6&#34;&gt;&lt;/polyline&gt;&lt;/svg&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 21&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z&#34;&gt;&lt;/path&gt;&lt;polyline points=&#34;22,6 12,13 2,6&#34;&gt;&lt;/polyline&gt;&lt;/svg&gt;
             &lt;b&gt; &amp;nbsp Email:&lt;/b&gt; smorrison [at] ucdavis [dot] edu&lt;/td&gt; &lt;/div&gt;
         &lt;tr&gt;
             &lt;td rowspan=1&gt;
             &lt;div class=&#34;social-icons&#34;&gt;
-                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71&#34;&gt;&lt;/path&gt;&lt;path d=&#34;M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71&#34;&gt;&lt;/path&gt;&lt;path d=&#34;M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
             &lt;b&gt; &amp;nbsp Website:&lt;/b&gt; &lt;a href=&#34;https://sjm.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer me&#34; title=&#34;website&#34;&gt;sjm.fyi&lt;/a&gt; &lt;/td&gt; &lt;/div&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td rowspan=1&gt;
             &lt;div class=&#34;social-icons&#34;&gt;
-                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox width=&#34;24&#34; height=&#34;24&#34; =&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
             &lt;b&gt;  &amp;nbsp  Github:&lt;/b&gt; &lt;a href=&#34;https://github.com/stuart-morrison&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer me&#34; title=&#34;github&#34;&gt;github.com/stuart-morrison&lt;/a&gt; &lt;/td&gt;&lt;/div&gt; 
         &lt;/tr&gt;
     &lt;/tbody&gt;
