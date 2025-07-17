@@ -2,50 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stuart J Morrison</title>
-    <link>https://stuart-morrison.github.io/</link>
+    <link>https://sjm.fyi/</link>
     <description>Recent content on Stuart J Morrison</description>
     <image>
-      <url>https://stuart-morrison.github.io/images/</url>
-      <link>https://stuart-morrison.github.io/images/</link>
+      <title>Stuart J Morrison</title>
+      <url>https://sjm.fyi/images/</url>
+      <link>https://sjm.fyi/images/</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://stuart-morrison.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sjm.fyi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some problems in probability theory</title>
-      <link>https://stuart-morrison.github.io/posts/gut_1/</link>
+      <link>https://sjm.fyi/posts/gut_1/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://stuart-morrison.github.io/posts/gut_1/</guid>
+      <guid>https://sjm.fyi/posts/gut_1/</guid>
       <description>Some fun problems from Gut</description>
     </item>
-    
     <item>
       <title>Random triangles and polygons</title>
-      <link>https://stuart-morrison.github.io/posts/random_triangles/</link>
+      <link>https://sjm.fyi/posts/random_triangles/</link>
       <pubDate>Wed, 31 Aug 2022 15:58:45 +1000</pubDate>
-      
-      <guid>https://stuart-morrison.github.io/posts/random_triangles/</guid>
+      <guid>https://sjm.fyi/posts/random_triangles/</guid>
       <description>Extensions on the clasic interview question</description>
     </item>
-    
     <item>
       <title>Repositories</title>
-      <link>https://stuart-morrison.github.io/repositories/</link>
+      <link>https://sjm.fyi/repositories/</link>
       <pubDate>Sat, 28 May 2022 15:58:45 +1000</pubDate>
-      
-      <guid>https://stuart-morrison.github.io/repositories/</guid>
-      <description>     </description>
+      <guid>https://sjm.fyi/repositories/</guid>
+      <description>&lt;div class=&#34;github-card&#34; data-github=&#34;stuart-morrison/schemr&#34; data-width=&#34;400&#34; data-height=&#34;&#34; data-theme=&#34;medium&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;
+&lt;div class=&#34;github-card&#34; data-github=&#34;stuart-morrison/algos&#34; data-width=&#34;400&#34; data-height=&#34;&#34; data-theme=&#34;medium&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;
+&lt;div class=&#34;github-card&#34; data-github=&#34;stuart-morrison/sumo&#34; data-width=&#34;400&#34; data-height=&#34;&#34; data-theme=&#34;medium&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>CV</title>
-      <link>https://stuart-morrison.github.io/cv/</link>
+      <link>https://sjm.fyi/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stuart-morrison.github.io/cv/</guid>
-      <description>&amp;nbsp Email: smorrison [at] ucdavis [dot] edu     &amp;nbsp Website: sjm.fyi       &amp;nbsp Github: github.com/stuart-morrison     Education          PhD - Agricultural and Resource Economics, UC Davis Current   MSc - Agricultural and Resource Economics, UC Davis 2024   Bachelor of Science - Statistics and Mathematics, University of Sydney 2021   Bachelor of Economics (Hons I) - Econometrics, University of Queensland 2016   Bachelor of Commerce - Finance, University of Queensland 2015    Research          An effective sanitizer for fresh produce production: In situ plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit Joanna G Rothwell, Jungmi Hong, Stuart Morrison, Heema K.</description>
+      <guid>https://sjm.fyi/cv/</guid>
+      <description>&lt;table&gt;
+    &lt;tbody&gt;
+        &lt;tr &gt;
+            &lt;td rowspan=3&gt;&lt;img src=&#34;https://sjm.fyi/images/pfp_small.png&#34;&gt;  &lt;/td&gt;
+            &lt;td rowspan=1&gt;
+            &lt;div class=&#34;social-icons&#34;&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 21&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z&#34;&gt;&lt;/path&gt;&lt;polyline points=&#34;22,6 12,13 2,6&#34;&gt;&lt;/polyline&gt;&lt;/svg&gt;
+            &lt;b&gt; &amp;nbsp Email:&lt;/b&gt; smorrison [at] ucdavis [dot] edu&lt;/td&gt; &lt;/div&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=1&gt;
+            &lt;div class=&#34;social-icons&#34;&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71&#34;&gt;&lt;/path&gt;&lt;path d=&#34;M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+            &lt;b&gt; &amp;nbsp Website:&lt;/b&gt; &lt;a href=&#34;https://sjm.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer me&#34; title=&#34;website&#34;&gt;sjm.fyi&lt;/a&gt; &lt;/td&gt; &lt;/div&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=1&gt;
+            &lt;div class=&#34;social-icons&#34;&gt;
+                &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+            &lt;b&gt;  &amp;nbsp  Github:&lt;/b&gt; &lt;a href=&#34;https://github.com/stuart-morrison&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer me&#34; title=&#34;github&#34;&gt;github.com/stuart-morrison&lt;/a&gt; &lt;/td&gt;&lt;/div&gt; 
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;PhD - Agricultural and Resource Economics&lt;/strong&gt;, &lt;em&gt;UC Davis&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;Current&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;MSc - Agricultural and Resource Economics&lt;/strong&gt;, &lt;em&gt;UC Davis&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bachelor of Science - Statistics and Mathematics&lt;/strong&gt;, &lt;em&gt;University of Sydney&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bachelor of Economics (Hons I) - Econometrics&lt;/strong&gt;, &lt;em&gt;University of Queensland&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;2016&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bachelor of Commerce - Finance&lt;/strong&gt;, &lt;em&gt;University of Queensland&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;2015&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;An effective sanitizer for fresh produce production: &lt;em&gt;In situ&lt;/em&gt; plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit &lt;em&gt;Joanna G Rothwell, Jungmi Hong, &lt;strong&gt;Stuart Morrison&lt;/strong&gt;, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://journals.asm.org/doi/10.1128/spectrum.00034-23&#34;&gt;Microbiology Spectrum&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;awards-and-fellowships&#34;&gt;Awards and fellowships&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Earth Scholar&lt;/strong&gt;, UC Davis Institute of the Environment&lt;/td&gt;
+          &lt;td&gt;2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;WPTF Graduate Student Award&lt;/strong&gt;, Western Power Trading Forum&lt;/td&gt;
+          &lt;td&gt;2024&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Provost&amp;rsquo;s Fellowship in the Arts, Humanities and Social Sciences&lt;/strong&gt;, UC Davis&lt;/td&gt;
+          &lt;td&gt;2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;UQ Economics Scholarship&lt;/strong&gt;, University of Queensland&lt;/td&gt;
+          &lt;td&gt;2015&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;UQ Dean&amp;rsquo;s Excellence Scholarship&lt;/strong&gt;, University of Queensland&lt;/td&gt;
+          &lt;td&gt;2014&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;extracurriculars&#34;&gt;Extracurriculars&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;R package creator:&lt;/strong&gt; &lt;a href=&#34;https://CRAN.R-project.org/package=schemr&#34;&gt;&lt;code&gt;schemr&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
-    
   </channel>
 </rss>

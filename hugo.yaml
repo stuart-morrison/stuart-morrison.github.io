@@ -1,0 +1,142 @@
+baseURL: "https://sjm.fyi/"
+title: Stuart J Morrison
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Stuart J Morrison
+  description: "Homepage of sjm"
+  keywords: [Blog, Portfolio]
+  author: sjm
+  images: ["/images/"]
+  DateFormat: "2 January 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Stuart J Morrison
+    subtitle: |
+      👋 G'day, I'm Stuart 
+      
+      🎓 I'm a PhD candidate at UC Davis in the Department of Agricultural and Resource Economics
+      
+      🌏 I'm a 2024 Earth Scholar with the UC Davis Institute of the Environment
+      
+      🍃 I'm passionate about the economics of energy and environmental policy
+      
+      🏢 Prior to my graduate studies, I was a Senior Advisor at the Australian Energy Market Commission
+    imageUrl: "images/pfp.png"
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: sjm
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Repositories
+        url: repositories
+      - name: CV
+        url: cv
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: 
+
+  socialIcons:
+    - name: linkedin
+      url: https://www.linkedin.com/in/stuartmorrisonau/
+    - name: github
+      url: https://github.com/stuart-morrison
+    
+
+
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # editPost:
+  #   URL: "https://github.com/stuart-morrison/stuart-morrison.github.io/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: CV
+      name: CV
+      url: /cv/
+      weight: 20
+    - identifier: Repositories
+      name: Repositories
+      url: /repositories/
+      weight: 20
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 20
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
