@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://sjm.fyi/posts/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/probability/</loc>
+    <loc>https://sjm.fyi/tags/probability/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/random-variables/</loc>
+    <loc>https://sjm.fyi/tags/random-variables/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gut_1/</loc>
+    <loc>https://sjm.fyi/posts/gut_1/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sjm.fyi/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sjm.fyi/tags/</loc>
     <lastmod>2022-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/random_triangles/</loc>
+    <loc>https://sjm.fyi/posts/random_triangles/</loc>
     <lastmod>2022-08-31T15:58:45+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/repositories/</loc>
+    <loc>https://sjm.fyi/repositories/</loc>
     <lastmod>2022-05-28T15:58:45+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sjm.fyi/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cv/</loc>
+    <loc>https://sjm.fyi/tags/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>https://sjm.fyi/cv/</loc>
   </url>
 </urlset>

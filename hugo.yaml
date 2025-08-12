@@ -52,7 +52,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: Stuart J Morrison
     subtitle: |
       👋 G'day, I'm Stuart 
@@ -64,6 +64,12 @@ params:
       🍃 I'm passionate about the economics of energy and environmental policy
       
       🏢 Prior to my graduate studies, I was a Senior Advisor at the Australian Energy Market Commission
+
+
+      ## Upcoming conferences and talks
+
+      Catch me at ISO New England's Market Design Workshop Schedule
+
     imageUrl: "images/pfp.png"
     imageWidth: 180
     imageHeight: 180
@@ -78,8 +84,34 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there 👋"
-    Content: 
+    Title: 
+    Content: |
+      ## Stuart J Morrison
+      
+      <div style="margin-top: 1rem;"></div>
+
+      <div style="display: flex; justify-content: center;"> <img src="/images/pfp.png" width="180px"> </div>
+
+      <div style="margin-top: 1rem;"></div>
+
+      👋 G'day, I'm Stuart 
+      
+      🎓 I'm a PhD candidate at UC Davis in the Department of Agricultural and Resource Economics
+      
+      🌏 I'm a 2024 Earth Scholar with the UC Davis Institute of the Environment
+      
+      🍃 I'm passionate about the economics of energy and environmental policy
+      
+      🏢 Prior to my graduate studies, I was a Senior Advisor at the Australian Energy Market Commission
+
+      <div style="margin-top: 3rem;"></div>
+
+      ## Upcoming conferences and talks
+
+      Catch me at ISO New England's Market Design Workshop Schedule on 12 September.
+      Talk title: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_
+
+
 
   socialIcons:
     - name: linkedin
