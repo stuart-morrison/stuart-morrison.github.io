@@ -9,7 +9,7 @@
       <url>https://sjm.fyi/images/</url>
       <link>https://sjm.fyi/images/</link>
     </image>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sjm.fyi/index.xml" rel="self" type="application/rss+xml" />
@@ -145,6 +145,16 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;extracurriculars&#34;&gt;Extracurriculars&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;R package creator:&lt;/strong&gt; &lt;a href=&#34;https://CRAN.R-project.org/package=schemr&#34;&gt;&lt;code&gt;schemr&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ISO-NE Market Design Workshop</title>
+      <link>https://sjm.fyi/isone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sjm.fyi/isone/</guid>
+      <description>&lt;img src=&#34;https://sjm.fyi/images/osci_transparent.gif&#34;&gt;
+&lt;p&gt;Thank you for coming to my talk titled: &lt;em&gt;Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You can download my slides by &lt;a href=&#34;https://drive.google.com/uc?export=download&amp;id=1r5oi-Tz5goBHZyEv_BjD7LdRIKer5_ZK&#34;&gt;clicking here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To get in touch or to give comments (which are very welcome), please reach out at &lt;a href=&#34;mailto:smorrison@ucdavis.edu&#34;&gt;smorrison@ucdavis.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

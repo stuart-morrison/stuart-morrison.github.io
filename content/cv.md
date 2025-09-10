@@ -88,6 +88,7 @@ ShowShareButtons: false
 
 | | |
 |---|---|
+| **UC Davis**, Instructor - Intermediate microeconomics | 2025 |
 | **UC Davis**, Teaching and research assistant | 2022-Current |
 | **Australian Energy Market Commission**, Senior Advisor | 2021-2022 |
 | **HoustonKemp Economists**, Economist | 2017-2021 |
