@@ -79,6 +79,10 @@ ShowShareButtons: false
 | **UQ Economics Scholarship**, University of Queensland  | 2015 |
 | **UQ Dean's Excellence Scholarship**, University of Queensland | 2014 |
 
+## Conferences and talks
+| | |
+|---|---|
+| **ISO New England's Market Design Workshop**,       Talk title: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_ | 2025 |
 
 
 ## Extracurriculars
