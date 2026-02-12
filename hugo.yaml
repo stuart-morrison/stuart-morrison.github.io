@@ -158,13 +158,11 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
     # anchorLineNos: true
     # codeFences: true
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true

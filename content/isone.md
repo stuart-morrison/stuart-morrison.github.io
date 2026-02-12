@@ -12,7 +12,6 @@ comments: false
 canonicalURL: "https://sjm.fyi/isone"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: true
 searchHidden: true
 ShowReadingTime: false
