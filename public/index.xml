@@ -2,52 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stuart J Morrison</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sjm.fyi/</link>
     <description>Recent content on Stuart J Morrison</description>
     <image>
       <title>Stuart J Morrison</title>
-      <url>http://localhost:1313/images/</url>
-      <link>http://localhost:1313/images/</link>
+      <url>https://sjm.fyi/images/</url>
+      <link>https://sjm.fyi/images/</link>
     </image>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.158.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sjm.fyi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some problems in probability theory</title>
-      <link>http://localhost:1313/posts/gut_1/</link>
+      <link>https://sjm.fyi/posts/gut_1/</link>
       <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/gut_1/</guid>
+      <guid>https://sjm.fyi/posts/gut_1/</guid>
       <description>Some fun problems from Gut</description>
     </item>
     <item>
       <title>Random triangles and polygons</title>
-      <link>http://localhost:1313/posts/random_triangles/</link>
+      <link>https://sjm.fyi/posts/random_triangles/</link>
       <pubDate>Wed, 31 Aug 2022 15:58:45 +1000</pubDate>
-      <guid>http://localhost:1313/posts/random_triangles/</guid>
+      <guid>https://sjm.fyi/posts/random_triangles/</guid>
       <description>Extensions on the clasic interview question</description>
     </item>
     <item>
-      <title>Repositories</title>
-      <link>http://localhost:1313/repositories/</link>
-      <pubDate>Sat, 28 May 2022 15:58:45 +1000</pubDate>
-      <guid>http://localhost:1313/repositories/</guid>
-      <description>&lt;div class=&#34;github-card&#34; data-github=&#34;stuart-morrison/schemr&#34; data-width=&#34;400&#34; data-height=&#34;&#34; data-theme=&#34;medium&#34;&gt;&lt;/div&gt;
-&lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;
-&lt;div class=&#34;github-card&#34; data-github=&#34;stuart-morrison/algos&#34; data-width=&#34;400&#34; data-height=&#34;&#34; data-theme=&#34;medium&#34;&gt;&lt;/div&gt;
-&lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;
-&lt;div class=&#34;github-card&#34; data-github=&#34;stuart-morrison/sumo&#34; data-width=&#34;400&#34; data-height=&#34;&#34; data-theme=&#34;medium&#34;&gt;&lt;/div&gt;
-&lt;script src=&#34;//cdn.jsdelivr.net/github-cards/latest/widget.js&#34;&gt;&lt;/script&gt;</description>
-    </item>
-    <item>
       <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://sjm.fyi/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://sjm.fyi/cv/</guid>
       <description>&lt;table&gt;
     &lt;tbody&gt;
         &lt;tr &gt;
-            &lt;td rowspan=3&gt;&lt;img src=&#34;http://localhost:1313/images/pfp_small.png&#34;&gt;  &lt;/td&gt;
+            &lt;td rowspan=3&gt;&lt;img src=&#34;https://sjm.fyi/images/pfp_small.png&#34;&gt;  &lt;/td&gt;
             &lt;td rowspan=1&gt;
             &lt;div class=&#34;social-icons&#34;&gt;
                 &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34;  width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 21&#34; fill=&#34;none&#34; stroke=&#34;currentcolor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&lt;path d=&#34;M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z&#34;&gt;&lt;/path&gt;&lt;polyline points=&#34;22,6 12,13 2,6&#34;&gt;&lt;/polyline&gt;&lt;/svg&gt;
@@ -107,7 +95,7 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;An effective sanitizer for fresh produce production: &lt;em&gt;In situ&lt;/em&gt; plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit &lt;em&gt;Joanna G Rothwell, Jungmi Hong, &lt;strong&gt;Stuart Morrison&lt;/strong&gt;, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;An effective sanitizer for fresh produce production: &lt;em&gt;In situ&lt;/em&gt; plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit, 2023, &lt;em&gt;Joanna G Rothwell, Jungmi Hong, &lt;strong&gt;Stuart Morrison&lt;/strong&gt;, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter&lt;/em&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://journals.asm.org/doi/10.1128/spectrum.00034-23&#34;&gt;Microbiology Spectrum&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -158,15 +146,63 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;extracurriculars&#34;&gt;Extracurriculars&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;R package creator:&lt;/strong&gt; &lt;a href=&#34;https://CRAN.R-project.org/package=schemr&#34;&gt;&lt;code&gt;schemr&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;dbc&lt;/code&gt; &lt;strong&gt;Dynamic Bias Correction (R package)&lt;/strong&gt; Implements the estimator in Klosin, Dynamic Biases of Static Panel Data Estimators. Developed with &lt;a href=&#34;https://klosins.github.io/&#34;&gt;Sylvia Klosin&lt;/a&gt;.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/klosins/dbc/&#34;&gt;github&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;schemr&lt;/code&gt; &lt;strong&gt;Convert photos into useable colour schemes (R package)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/stuart-morrison/schemr&#34;&gt;github&lt;/a&gt; &lt;a href=&#34;https://cran.r-project.org/web/packages/schemr/&#34;&gt;cran&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;other-employment&#34;&gt;Other employment&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;UC Davis&lt;/strong&gt;, Instructor - Intermediate microeconomics&lt;/td&gt;
+          &lt;td&gt;2025&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;UC Davis&lt;/strong&gt;, Teaching and research assistant&lt;/td&gt;
+          &lt;td&gt;2022-Current&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Australian Energy Market Commission&lt;/strong&gt;, Senior Advisor&lt;/td&gt;
+          &lt;td&gt;2021-2022&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;HoustonKemp Economists&lt;/strong&gt;, Economist&lt;/td&gt;
+          &lt;td&gt;2017-2021&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;University of Queensland&lt;/strong&gt;, Teaching assistant - Introductory statistics&lt;/td&gt;
+          &lt;td&gt;2016&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     <item>
       <title>ISO-NE Market Design Workshop</title>
-      <link>http://localhost:1313/isone/</link>
+      <link>https://sjm.fyi/isone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/isone/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/images/osci_transparent.gif&#34;&gt;
+      <guid>https://sjm.fyi/isone/</guid>
+      <description>&lt;img src=&#34;https://sjm.fyi/images/osci_transparent.gif&#34;&gt;
 &lt;p&gt;Thank you for coming to my talk titled: &lt;em&gt;Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;You can download my slides by &lt;a href=&#34;https://drive.google.com/uc?export=download&amp;id=1r5oi-Tz5goBHZyEv_BjD7LdRIKer5_ZK&#34;&gt;clicking here.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To get in touch or to give comments (which are very welcome), please reach out at &lt;a href=&#34;mailto:smorrison@ucdavis.edu&#34;&gt;smorrison@ucdavis.edu&lt;/a&gt;&lt;/p&gt;</description>

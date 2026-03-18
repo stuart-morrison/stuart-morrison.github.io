@@ -19,7 +19,7 @@ params:
   author: sjm
   images: ["/images/"]
   DateFormat: "2 January 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
   math: true
   ShowReadingTime: false
@@ -98,7 +98,7 @@ params:
       
       🎓 I'm a PhD candidate at UC Davis in the Department of Agricultural and Resource Economics
       
-      🌏 I'm a 2024 Earth Scholar with the UC Davis Institute of the Environment
+      🌏 I was a 2024 Earth Scholar with the UC Davis Institute of the Environment
       
       🍃 I'm passionate about the economics of energy and environmental policy
       
@@ -144,10 +144,6 @@ menu:
     - identifier: CV
       name: CV
       url: /cv/
-      weight: 20
-    - identifier: Repositories
-      name: Repositories
-      url: /repositories/
       weight: 20
     - identifier: Posts
       name: Posts

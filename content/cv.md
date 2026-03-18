@@ -3,7 +3,7 @@ title: "CV"
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["cv"]
+tags: 
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
@@ -65,7 +65,7 @@ ShowShareButtons: false
 
 | |  
 |---|---|
-| An effective sanitizer for fresh produce production: _In situ_ plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit _Joanna G Rothwell, Jungmi Hong, **Stuart Morrison**, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter_  | [Microbiology Spectrum](https://journals.asm.org/doi/10.1128/spectrum.00034-23) |
+| An effective sanitizer for fresh produce production: _In situ_ plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit, 2023, _Joanna G Rothwell, Jungmi Hong, **Stuart Morrison**, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter_  | [Microbiology Spectrum](https://journals.asm.org/doi/10.1128/spectrum.00034-23) |
 
 
 
@@ -84,8 +84,13 @@ ShowShareButtons: false
 | **ISO New England's Market Design Workshop**,       Talk title: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_ | 2025 |
 
 
-## Extracurriculars
-**R package creator:** [`schemr`](https://CRAN.R-project.org/package=schemr)  
+## Software
+
+| | |
+|---|---|
+|`dbc` **Dynamic Bias Correction (R package)** Implements the estimator in Klosin, Dynamic Biases of Static Panel Data Estimators. Developed with [Sylvia Klosin](https://klosins.github.io/). | [github](https://github.com/klosins/dbc/) |
+| `schemr` **Convert photos into useable colour schemes (R package)** | [github](https://github.com/stuart-morrison/schemr) [cran](https://cran.r-project.org/web/packages/schemr/)| 
+
 
 ## Other employment
 
