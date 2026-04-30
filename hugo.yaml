@@ -54,22 +54,8 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Stuart J Morrison
-    subtitle: |
-      👋 G'day, I'm Stuart 
+    subtitle: 
       
-      🎓 I'm a PhD candidate at UC Davis in the Department of Agricultural and Resource Economics
-      
-      🌏 I'm a 2024 Earth Scholar with the UC Davis Institute of the Environment
-      
-      🍃 I'm passionate about the economics of energy and environmental policy
-      
-      🏢 Prior to my graduate studies, I was a Senior Advisor at the Australian Energy Market Commission
-
-
-      ## Upcoming conferences and talks
-
-      Catch me at ISO New England's Market Design Workshop Schedule
-
     imageUrl: "images/pfp.png"
     imageWidth: 180
     imageHeight: 180
@@ -106,11 +92,22 @@ params:
 
       <div style="margin-top: 3rem;"></div>
 
+      ## Upcoming conferences and talks
+
+      **London School of Economics Environment Camp**, May 2026
+
+      Talk title: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_
+      
+      <div style="margin-top: 0.5rem;"></div>
+
+      **World Congress of Environmental and Resource Economists**, July 2026
+
+      Talk title: _How Much Does Grid Stability Cost? How Much Does Grid Stability Cost? Evidence from a Dynamic Entry Game in Electricity Markets_
 
 
 
   socialIcons:
-    - name: linkedin
+    - name: linkedin 
       url: https://www.linkedin.com/in/stuartmorrisonau/
     - name: github
       url: https://github.com/stuart-morrison
