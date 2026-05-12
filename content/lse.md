@@ -1,5 +1,5 @@
 ---
-title: "ISO-NE Market Design Workshop"
+title: "LSE Environment Camp 2026"
 draft: false
 # weight: 1
 # aliases: ["/first"]
@@ -9,7 +9,7 @@ showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
-canonicalURL: "https://sjm.fyi/isone"
+canonicalURL: "https://sjm.fyi/lse"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: true
@@ -26,7 +26,7 @@ ShowShareButtons: false
 
 Thank you for coming to my talk titled: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_
 
-You can download my slides by <a href="https://drive.google.com/uc?export=download&id=1r5oi-Tz5goBHZyEv_BjD7LdRIKer5_ZK">clicking here.</a>
+You can download my slides by <a>clicking here.</a>
 
 To get in touch or to give comments (which are very welcome), please reach out at smorrison@ucdavis.edu
 
