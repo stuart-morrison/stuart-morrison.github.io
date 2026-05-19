@@ -21,12 +21,12 @@ ShowRssButtonInSectionTermList: false
 ShowShareButtons: false
 
 ---
-
+    
 <img src="/images/osci_transparent.gif">
 
-Thank you for coming to my talk titled: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_
+Thank you for coming to my talk titled: _How much does grid stability cost? Evidence from a dynamic entry game in electricity markets_
 
-You can download my slides by <a>clicking here.</a>
+You can download my slides by <a href="https://drive.google.com/file/d/1IFMPz7tl77g2fO00Wpbr1tp9gZA6-0MO/view?usp=drive_link">clicking here.</a>
 
 To get in touch or to give comments (which are very welcome), please reach out at smorrison@ucdavis.edu
 
