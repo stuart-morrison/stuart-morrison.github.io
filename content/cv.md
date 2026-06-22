@@ -60,7 +60,7 @@ ShowShareButtons: false
 |  **Bachelor of Commerce - Finance**, *University of Queensland* | 2015 |  
 
 
-## Working papers
+## Works in progress
 
 <details>
 <summary>How much does grid stability cost? Evidence from a Dynamic Entry Game in Electricity Markets</summary>
