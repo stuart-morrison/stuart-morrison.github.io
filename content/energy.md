@@ -1,5 +1,5 @@
 ---
-title: "LSE Environment Camp 2026"
+title: "Berkeley Energy Camp 2026"
 draft: false
 # weight: 1
 # aliases: ["/first"]
@@ -9,7 +9,7 @@ showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
-canonicalURL: "https://sjm.fyi/lse"
+canonicalURL: "https://sjm.fyi/energy"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: true
@@ -26,7 +26,7 @@ ShowShareButtons: false
 
 Thank you for coming to my talk titled: _How much does grid stability cost? Evidence from a dynamic entry game in electricity markets_
 
-You can download my slides by <a href="https://drive.google.com/file/d/1IFMPz7tl77g2fO00Wpbr1tp9gZA6-0MO/view?usp=drive_link">clicking here.</a>
+You can download my slides by <a href="https://drive.google.com/file/d/1adUV-0ffsIF-4uoHL78sqwtMM2N0qBbg/view?usp=sharing">clicking here.</a>
 
 To get in touch or to give comments (which are very welcome), please reach out at smorrison@ucdavis.edu
 
