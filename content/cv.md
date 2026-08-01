@@ -63,11 +63,11 @@ ShowShareButtons: false
 ## Works in progress
 
 <details>
-<summary>How much does grid stability cost? Evidence from a Dynamic Entry Game in Electricity Markets</summary>
+<summary>Partial Innovation and the Optimal Retirement of Fossil-Fueled Generators</summary>
 
 <div class="abstract" style="font-size:0.85em">
 
-As electricity grids decarbonize, fossil-fuelled generators that supply stability as a by-product of energy are pushed out of merit, forcing operators to source it from costly network equipment or by running those generators out of merit anyway. While there is substantial financial outlay to acquire stability from alternative sources in grids across the world, there is little understanding of the economic trade-off of these alternatives. I study South Australia, among the world's fastest-decarbonizing grids. Estimating gas-generator costs from a dynamic entry game from Ciliberto, et al (2021), I re-solve the market with and without the need for stability. The economic cost of stability is A$19.2 million per year, approximately 1.7% of energy revenues. The state's A$180 million synchronous condensers saved at most A$3.0 million per year, breaking even only at a negative discount rate. These results provide insight on a cost-effective way to support the decarbonization of electricity grids.
+As electricity grids decarbonize, fossil-fuelled generators that supply stability as a by-product of energy are pushed out of merit, forcing operators to source it from costly network equipment or by running those generators out of merit anyway. While there is substantial financial outlay to acquire stability from alternative sources in grids across the world, there is little understanding of the economic trade-off of these alternatives, or when these new technologies can replace fossil-fueled generators. I study South Australia, among the world's fastest-decarbonizing grids. Estimating gas-generator costs from a dynamic entry game from Ciliberto, et al (2021), I re-solve the market with and without the need for stability. The economic cost of stability is A$19.2 million per year, approximately 1.7% of energy revenues. The state's A$180 million synchronous condensers saved at most A$3.0 million per year, breaking even only at a negative discount rate. These results provide insight on a cost-effective way to support the decarbonization of electricity grids.
 
 </div>
 </details>
@@ -92,29 +92,34 @@ As electricity grids decarbonize, fossil-fuelled generators that supply stabilit
 |---|---|
 | An effective sanitizer for fresh produce production: _In situ_ plasma activated water treatment inactivates pathogenic bacteria and maintains the quality of cucurbit fruit, 2023, _Joanna G Rothwell, Jungmi Hong, **Stuart Morrison**, Heema K.N. Vyas, Binbin Xia,  Anne Mai-Prochnow, Robyn McConchie, Kim-Yen Phan-Thien, Patrick J Cullen,  Dee A Carter_  | [Microbiology Spectrum](https://journals.asm.org/doi/10.1128/spectrum.00034-23) |
 
+## Conferences and talks
+| | |
+|---|---|
+| **World Congress of Environmental and Resource Economists**,       Talk title: How Much Does Grid Stability Cost? Evidence from a Dynamic Entry Game in Electricity Markets_ | 2026 |
+| **Berkeley Energy Camp**,       Talk title: How Much Does Grid Stability Cost? Evidence from a Dynamic Entry Game in Electricity Markets_ | 2026 |
+| **London School of Economics Environment Camp**,       Talk title: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_ | 2026 |
+| **ISO New England's Market Design Workshop**,       Talk title: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_ | 2025 |
+
 
 
 ## Awards and fellowships
 | | |
 |---|---|
+| **UC Davis Continuing Fellowship**, UC Davis Graduate Studies  | 2026 |
+| **Jastro Fellowship**, UC Davis College of Agricultural and Environmental Science  | 2024 \& 2025 |
 | **Earth Scholar**, UC Davis Institute of the Environment | 2024 |
 | **WPTF Graduate Student Award**, Western Power Trading Forum | 2024 |
 | **Provost's Fellowship in the Arts, Humanities and Social Sciences**, UC Davis | 2022 |
 | **UQ Economics Scholarship**, University of Queensland  | 2015 |
 | **UQ Dean's Excellence Scholarship**, University of Queensland | 2014 |
 
-## Conferences and talks
-| | |
-|---|---|
-| **ISO New England's Market Design Workshop**,       Talk title: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_ | 2025 |
-
 
 ## Software
 
-| | |
-|---|---|
-|`dbc` **Dynamic Bias Correction (R package)** Implements the estimator in Klosin, Dynamic Biases of Static Panel Data Estimators. Developed with [Sylvia Klosin](https://klosins.github.io/). | [github](https://github.com/klosins/dbc/) |
-| `schemr` **Convert photos into useable colour schemes (R package)** | [github](https://github.com/stuart-morrison/schemr) [cran](https://cran.r-project.org/web/packages/schemr/)| 
+| | | |
+|---|---|---|
+|`dbc` | **Dynamic Bias Correction (R package)** Implements the estimator in Klosin, Dynamic Biases of Static Panel Data Estimators. Developed with [Sylvia Klosin](https://klosins.github.io/). | [github](https://github.com/klosins/dbc/) |
+| `schemr` | **Convert photos into useable colour schemes (R package)** | [github](https://github.com/stuart-morrison/schemr) [cran](https://cran.r-project.org/web/packages/schemr/)| 
 
 
 ## Other employment
