@@ -95,8 +95,8 @@ As electricity grids decarbonize, fossil-fuelled generators that supply stabilit
 ## Conferences and talks
 | | |
 |---|---|
-| **World Congress of Environmental and Resource Economists**,       Talk title: How Much Does Grid Stability Cost? Evidence from a Dynamic Entry Game in Electricity Markets_ | 2026 |
-| **Berkeley Energy Camp**,       Talk title: How Much Does Grid Stability Cost? Evidence from a Dynamic Entry Game in Electricity Markets_ | 2026 |
+| **World Congress of Environmental and Resource Economists**,       Talk title: _How Much Does Grid Stability Cost? Evidence from a Dynamic Entry Game in Electricity Markets_ | 2026 |
+| **Berkeley Energy Camp**,       Talk title: _How Much Does Grid Stability Cost? Evidence from a Dynamic Entry Game in Electricity Markets_ | 2026 |
 | **London School of Economics Environment Camp**,       Talk title: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_ | 2026 |
 | **ISO New England's Market Design Workshop**,       Talk title: _Stability Service Sticker Shock: Overinvestment in Electricity Market Resilience_ | 2025 |
 
