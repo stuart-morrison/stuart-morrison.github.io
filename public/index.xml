@@ -9,7 +9,7 @@
       <url>https://sjm.fyi/images/</url>
       <link>https://sjm.fyi/images/</link>
     </image>
-    <generator>Hugo -- 0.164.0</generator>
+    <generator>Hugo -- 0.165.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sjm.fyi/index.xml" rel="self" type="application/rss+xml" />
@@ -64,42 +64,7 @@
         &lt;/tr&gt;
     &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;table&gt;
-	&lt;thead&gt;
-			&lt;tr&gt;
-					&lt;th&gt;&lt;/th&gt;
-					&lt;th&gt;&lt;/th&gt;
-			&lt;/tr&gt;
-	&lt;/thead&gt;
-	&lt;tbody&gt;
-			&lt;tr&gt;
-					&lt;td&gt;&lt;strong&gt;PhD - Agricultural and Resource Economics&lt;/strong&gt;, &lt;em&gt;UC Davis&lt;/em&gt;&lt;/td&gt;
-					&lt;td&gt;Current&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td&gt;&lt;strong&gt;MSc - Agricultural and Resource Economics&lt;/strong&gt;, &lt;em&gt;UC Davis&lt;/em&gt;&lt;/td&gt;
-					&lt;td&gt;2024&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td&gt;&lt;strong&gt;Bachelor of Science - Statistics and Mathematics&lt;/strong&gt;, &lt;em&gt;University of Sydney&lt;/em&gt;&lt;/td&gt;
-					&lt;td&gt;2021&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td&gt;&lt;strong&gt;Bachelor of Economics (Hons I) - Econometrics&lt;/strong&gt;, &lt;em&gt;University of Queensland&lt;/em&gt;&lt;/td&gt;
-					&lt;td&gt;2016&lt;/td&gt;
-			&lt;/tr&gt;
-			&lt;tr&gt;
-					&lt;td&gt;&lt;strong&gt;Bachelor of Commerce - Finance&lt;/strong&gt;, &lt;em&gt;University of Queensland&lt;/em&gt;&lt;/td&gt;
-					&lt;td&gt;2015&lt;/td&gt;
-			&lt;/tr&gt;
-	&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;works-in-progress&#34;&gt;Works in progress&lt;/h2&gt;
-&lt;details&gt;
-&lt;summary&gt;Partial Innovation and the Optimal Retirement of Fossil-Fueled Generators&lt;/summary&gt;
-&lt;div class=&#34;abstract&#34; style=&#34;font-size:0.85em&#34;&gt;
-&lt;p&gt;As electricity grids decarbonize, fossil-fuelled generators that supply stability as a by-product of energy are pushed out of merit, forcing operators to source it from costly network equipment or by running those generators out of merit anyway. While there is substantial financial outlay to acquire stability from alternative sources in grids across the world, there is little understanding of the economic trade-off of these alternatives, or when these new technologies can replace fossil-fueled generators. I study South Australia, among the world&amp;rsquo;s fastest-decarbonizing grids. Estimating gas-generator costs from a dynamic entry game from Ciliberto, et al (2021), I re-solve the market with and without the need for stability. The economic cost of stability is A$19.2 million per year, approximately 1.7% of energy revenues. The state&amp;rsquo;s A$180 million synchronous condensers saved at most A$3.0 million per year, breaking even only at a negative discount rate. These results provide insight on a cost-effective way to support the decarbonization of electricity grids.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Qv4uj1WSmiddHyuogU9TjmIpbFa1KEXO/view?usp=sharing&#34;&gt;Download a pdf version of my CV here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>World Congress of Environmental and Resource Economists 2026</title>

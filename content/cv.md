@@ -47,6 +47,7 @@ ShowShareButtons: false
     </tbody>
 </table>
 
+[Download a pdf version of my CV here](https://drive.google.com/file/d/1Qv4uj1WSmiddHyuogU9TjmIpbFa1KEXO/view?usp=sharing)
 
 
 ## Education
@@ -67,7 +68,7 @@ ShowShareButtons: false
 
 <div class="abstract" style="font-size:0.85em">
 
-As electricity grids decarbonize, fossil-fuelled generators that supply stability as a by-product of energy are pushed out of merit, forcing operators to source it from costly network equipment or by running those generators out of merit anyway. While there is substantial financial outlay to acquire stability from alternative sources in grids across the world, there is little understanding of the economic trade-off of these alternatives, or when these new technologies can replace fossil-fueled generators. I study South Australia, among the world's fastest-decarbonizing grids. Estimating gas-generator costs from a dynamic entry game from Ciliberto, et al (2021), I re-solve the market with and without the need for stability. The economic cost of stability is A$19.2 million per year, approximately 1.7% of energy revenues. The state's A$180 million synchronous condensers saved at most A$3.0 million per year, breaking even only at a negative discount rate. These results provide insight on a cost-effective way to support the decarbonization of electricity grids.
+I study how new technologies diffuse into a market when they can replace old technologies on some margins but not others. I analyze this in the Australian electricity market where renewables cannot provide many of the ancillary services that fossil-fueled generators can. The grid operator needs to balance falling costs from renewables while meeting requirements for ancillary services. I evaluate whether a A\$166 million investment in a complementary technology to provide these ancillary services was cost-effective. I estimate the costs of running fossil-fueled generators with a structural model of the market to be A\$47 million per year, but find these costs did not decrease following the investment, implying that the investment was not cost-effective. This shows that fossil-fueled generators can have a persistent role in electricity markets, even when there are new technologies to replace them.
 
 </div>
 </details>
