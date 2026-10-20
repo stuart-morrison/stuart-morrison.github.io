@@ -27,7 +27,7 @@ ShowShareButtons: false
 <table>
     <tbody>
         <tr >
-            <td rowspan=3><img src="/images/pfp_small.png">  </td>
+            <td rowspan=3><img src="/images/pfp_small.png" width="120px">  </td>
             <td rowspan=1>
             <div class="social-icons">
                 <svg xmlns="http://www.w3.org/2000/svg"  width="24" height="24" viewBox="0 0 24 21" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1.0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1.0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
@@ -63,8 +63,8 @@ ShowShareButtons: false
 
 ## Works in progress
 
-<details>
-<summary>Partial Innovation and the Optimal Retirement of Fossil-Fueled Generators</summary>
+<details style="margin-bottom:1.5em">
+<summary>Partial Disruption and the Optimal Retirement of Fossil-Fueled Generators &nbsp;<strong>Job Market Paper</strong> &nbsp;<a href="https://drive.google.com/file/d/1OzlWrW-IABxe-mv3gxRgPl-v2RMKOZOS/view?usp=sharing" target="_blank" rel="noopener noreferrer">[PDF]</a></summary>
 
 <div class="abstract" style="font-size:0.85em">
 
@@ -73,19 +73,26 @@ I study how new technologies diffuse into a market when they can replace old tec
 </div>
 </details>
 
-<details>
-<summary>Convex Estimation of DDC Models and a Global Guarantee. With <a href="https://markagerton.com/">Mark Agerton</a> and <a href="https://gafarov.ucdavis.edu/">Bulat Gafarov</a>
+<details style="margin-bottom:1.5em">
+<summary>Convex Estimation of Dynamic Discrete Choice Structural Models and a Global Guarantee. With <a href="https://markagerton.com/">Mark Agerton</a> and <a href="https://gafarov.ucdavis.edu/">Bulat Gafarov</a>
 </summary>
 
 <div class="abstract" style="font-size:0.85em">
 
- Maximum likelihood estimation of dynamic discrete choice models in the tradition of Rust (1987) requires solving a nonconvex program, and consistency and asymptotic normality hold only at the global maximizer, which no existing method guarantees. For models with linear-in-parameters payoffs and fixed shock-distribution parameters, we modify the MPEC of Su et al (2012) by relaxing the equality that defines the ex-ante value function and penalizing the slack. The modified program is globally convex for logit and binary probit, the most common distributions in the literature. With probability approaching one the relaxation is exact, so every maximizer is a global maximizer of the original MPEC and converges to the unique population maximum. A simple sufficient condition, positive Lagrange multipliers on the relaxed constraint, certifies exactness ex post at any candidate solution for any estimation method. We show that the relaxed program can be expressed as a convex conic program when the shock distribution is T1EV. We extend the relaxed model to incorporate k-step updating for efficiency, and to discrete unobserved heterogeneity. In Monte Carlo experiments we certify global optimality in over 99.5% of samples at the largest sample sizes.
+Maximum likelihood estimation of dynamic discrete choice models in the tradition of Rust requires solving a nonconvex program, where consistency and asymptotic normality hold only at the global maximizer, which no existing method guarantees. For models with linear-in-parameters payoffs and fixed shock-distribution parameters, we modify the MPEC of Su and Judd by relaxing the equality that defines the ex-ante value function and penalizing the slack. The resulting Augmented Lagrangian MPEC (ALMPEC) estimator is globally convex for logit and binary probit, the most common distributions in the literature. With probability approaching one the relaxation is exact, so every maximizer is a global maximizer of the original MPEC and converges to the unique population maximum. A simple sufficient condition, positive Lagrange multipliers on the relaxed constraint, certifies exactness *ex-post* at any candidate solution for any estimation method. We also show that ALMPEC has equivalent smooth and conic formulations when the shock distribution is T1EV. We extend ALMPEC to incorporate *k*-step updating for efficiency, and to discrete unobserved heterogeneity. In Monte Carlo experiments at the largest sample sizes we certify global optimality in 98% of samples at the highest discount factors and 100% of samples at more moderate discount factors.
 
 </div>
 </details>
 
+<details style="margin-bottom:1.5em">
+<summary>Dynamics of Agricultural Water Substitution. With Katrina Jessoe and Kevin Novan</summary>
 
+<div class="abstract" style="font-size:0.85em">
 
+When there are droughts in California, farmers substitute from surface water to ground water, which strains already over-extracted aquifers. We estimate causal measures of this substitution to groundwater, and find it is increasing over time, close to 1-for-1 in some areas, due to increased investment in long-lived perennial crops, which causes farmers to be less sensitive to prices. We show that previous studies of price elasticities have failed to capture these dynamics because the restriction conditions for these to be sufficient statistics do not hold, and so elasticities are influenced by changes in both supply and demand for groundwater. We propose a new sufficient statistic, the substitution rate between surface water and groundwater, and show that it can be used to evaluate optimal taxes to manage the aquifers.
+
+</div>
+</details>
 
 ## Published research
 
